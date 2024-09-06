@@ -15,7 +15,16 @@
 - ChakraUI
 - Ant Design
 - MaterialUI
-
+### Backend Development
+- Node.js <i class="fab fa-node-js"></i>
+- PHP <i class="fab fa-php"></i>
+- MongoDB <i class="fas fa-database"></i>
+- GraphQL <i class="fas fa-link"></i>
+- Laravel
+- Express
+- Nest
+- Fastify
+- Django
 ### Backend Development
 - Node.js <i class="fab fa-node-js"></i>
 - PHP <i class="fab fa-php"></i>
