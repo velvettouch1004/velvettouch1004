@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Velvettouch</h1>
-<h3 align="center">A passionate full-stack developer from US I am a seasoned Full-Stack Developer with over 10 years of experience in building scalable, robust, and high-performance web applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.</h3>
+<h3 align="center">A passionate full-stack developer with over 6 years of experience in building high-performance web applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
