@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 ### Frontend Development
 - React.js <i class="fab fa-react"></i>
 - Next.js <i class="fab fa-react"></i>
