@@ -1,5 +1,6 @@
-![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋 This is Lucas Davis</h1>
+![gitartwork](gitartwork.svg)
+
 <h3 align="center">A senior full-stack developer with over 7 years of experience building high-performance applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
